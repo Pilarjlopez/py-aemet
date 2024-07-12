@@ -34,9 +34,8 @@ db_table_metadata = 'metadata'
 #years=[*range(2000, 2005)]
 #years=[*range(2005, 2010)]
 #years=[*range(2010, 2015)]
-#years=[*range(2015, 2020)]
-
-years=[*range(2020, 2024)]
+years=[*range(2015, 2020)]
+#years=[*range(2020, 2024)]
 estation="3195" # MADRID / Retiro
 autoconfirm=True
 fetchmetadata=True
